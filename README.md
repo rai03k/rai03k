@@ -1,6 +1,6 @@
 ### Hi👋, I'm Raizo
 ### About me
-I'm Business System Enginner from Japan.
+I'm Mobile App Developer from Japan.
 
 ### Now training
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
